@@ -24,7 +24,7 @@ shopping_list.append("Tuna")
 print(shopping_list)
 
 # How to delete items from list
-#del shopping_list[3]
+# del shopping_list[3]
 shopping_list.pop(3)
 print(shopping_list)
 
@@ -35,3 +35,9 @@ print(shopping_list)
 # Multiple data types in the same list
 mix_list = [1, 2, 3, "one", "two", "three"]
 print(mix_list)
+
+# Tuples are immutable , syntax: name of tuple =()
+
+essentials = ("paracetomal", "milk", "butter")
+essentials.pop(1)
+print(essentials)

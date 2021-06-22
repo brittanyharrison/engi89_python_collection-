@@ -8,5 +8,4 @@
 - Sets
 
 ## Lists
-##
-- 
+# Lists are mutable and Tuples are immutable
