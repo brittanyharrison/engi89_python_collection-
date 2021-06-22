@@ -18,7 +18,7 @@
 
 - Add item `.append() = item`
 - Remove item `.pop()`
-- Replace item `list[index]= item`
+- Replace item `list[i]= item`
 
 
 # Tuples - immutable
