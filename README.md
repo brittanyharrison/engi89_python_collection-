@@ -1,16 +1,32 @@
 # Python Collections 
 
 ## What are collections?
-<<<<<<< HEAD
+
 #### Collections in Python are containers that are used to store collections of data, for example:
 - lists
 - Tuples
 - Dict
 - Sets
 
-## Lists
-# Lists are mutable and Tuples are immutable
-=======
-#### Collections in Python are containers that are used to store collections of data, for example, list, dict, set, tuple etc. 
+## Lists - mutable
 
->>>>>>> 594a3890dc8c8bb80f225bf9939eadc4640abb4c
+- The syntax for list is: list_name = [item1, item2, item3]
+
+`shopping_list = ["apples", "eggs", "dark chocolate", "tea", "bread"]`
+
+###### Methods for lists:
+
+- Add item `.append() = item`
+- Remove item `.pop()`
+- Replace item `list[index]= item`
+
+
+# Tuples - immutable
+
+- The syntax for a tuple is: tuple_name = (item1, item2, item3)
+
+`essentials = ("paracetomal", "milk", "butter")`
+
+
+
+
