@@ -27,6 +27,12 @@
 
 `essentials = ("paracetomal", "milk", "butter")`
 
+# Dictionary and Sets
+Dictionaries and sets are data collections in Python
 
-
+- **Dict** - are a nother way to manage data  but can be a little more DYNAMIC 
+- Dict work as KEY and VALUE
+- KEY = reference ogf the object 
+- Value =  What the data storage mechanism you wish to us 
+- Syntax `name = {key:value}`
 
