@@ -37,3 +37,16 @@ print(students_1.keys())
 
 # Print only values
 print(students_1.values())
+
+
+#create a set
+car_parts = { "engine", "wheels", "windows"}
+
+# add to sets
+car_parts.add("seats")
+print(car_parts)
+
+# remove from sets
+car_parts.discard("wheels")
+print(car_parts)
+

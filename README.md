@@ -8,7 +8,7 @@
 - Dict
 - Sets
 
-## Lists - mutable
+# Lists - mutable
 
 - The syntax for list is: list_name = [item1, item2, item3]
 
@@ -36,3 +36,12 @@ Dictionaries and sets are data collections in Python
 - Value =  What the data storage mechanism you wish to us 
 - Syntax `name = {key:value}`
 
+
+- **Sets** are aslo data collections
+- syntax `name = {"", ""}`
+- The difference between lists: sets are unordered
+
+####### Methods for sets
+
+- `.add()` to add item 
+- `.discard()` to remove item 
