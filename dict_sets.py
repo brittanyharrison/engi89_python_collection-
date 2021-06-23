@@ -24,4 +24,16 @@ print(students_1["completed_lessons_names"][1])
 # Activity: print the second last index of the key completed_lessons_names
 print(students_1["completed_lessons_names"][-2])
 
+#
+students_1["completed_lessons"] = 3
+print(students_1["completed_lessons"])
 
+# Remove
+students_1["completed_lessons_names"].remove("operators")
+print(students_1["completed_lessons_names"])
+
+# Print only keys
+print(students_1.keys())
+
+# Print only values
+print(students_1.values())
